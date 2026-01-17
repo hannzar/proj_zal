@@ -6,10 +6,10 @@
 Function Description:
 Complete the function sherlockAndAnagrams in the editor below.
 sherlockAndAnagrams has the following parameter(s):
-string s- a string
+string s- a string.
 
 Returns:
-int- the number of unordered anagrammatic pairs of substrings in s
+int- the number of unordered anagrammatic pairs of substrings in s.
 
 Constraints:
 2 <= length of s <= 100,
@@ -29,10 +29,10 @@ Given an  matrix, find and print the number of cells in the largest region in th
 Function Description:
 Complete the connectedCell function in the editor below.
 connectedCell has the following parameter(s):
-int matrix[n][m]
+int matrix[n][m].
 
 Returns:
-int- the area of the largest region
+int- the area of the largest region.
 
 Constraints:
-0 < n, m < 10
+0 < n, m < 10.
